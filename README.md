@@ -8,5 +8,3 @@
 - https://github.com/JayHong99/Study/tree/main/NLP
 
 ## AI504
-- Youtube Course
-- Deep Learning 
