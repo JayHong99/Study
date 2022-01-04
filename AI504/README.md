@@ -17,5 +17,5 @@
 |Class 3|Basic Machine Learning 이론|2022.01.03|
 |Class 4|Basic Machine Learning 실습|2022.01.03|
 |Class 5|Logistic Regression + Neural Network 이론|2022.01.04|
-|Class 6|Class 06 PyTorch + Neural Network 실습|2022.01.05|
-|Class 7|Class 07 AutoEncoder 이론|2022.01.05|
+|Class 6|PyTorch + Neural Network 실습|2022.01.05|
+|Class 7|AutoEncoder 이론|2022.01.05|
