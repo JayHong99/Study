@@ -19,3 +19,4 @@
 |Class 5|Logistic Regression + Neural Network 이론|2022.01.04|
 |Class 6|PyTorch + Neural Network 실습|2022.01.05|
 |Class 7|AutoEncoder 이론|2022.01.05|
+|Class 8|AutoEncoder 실습|2022.01.05|
