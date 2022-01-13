@@ -21,4 +21,4 @@
 |Class 07|AutoEncoder 이론|2022.01.05|
 |Class 08|AutoEncoder 실습|2022.01.05|
 |Class 09|Variational Encoder 이론|2022.01.13|
-|Class 10|Variational Encoder |2022.01.13|
+|Class 10|Variational Encoder 실습|2022.01.13|
