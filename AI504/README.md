@@ -22,3 +22,5 @@
 |Class 08|AutoEncoder 실습|2022.01.05|
 |Class 09|Variational Encoder 이론|2022.01.13|
 |Class 10|Variational Encoder 실습|2022.01.13|
+|Class 11|Generative Adversarial Networks 이론|2022.01.14|
+|Class 12|Generative Adversarial Networks 실습|2022.01.14|
