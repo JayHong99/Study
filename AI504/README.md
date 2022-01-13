@@ -12,11 +12,13 @@
 
 |강의번호|내용|정리 일자|
 |---|---|---|
-|Class 1|Introduction|2022.01.02|
-|Class 2|Numpy 실습|2022.01.02|
-|Class 3|Basic Machine Learning 이론|2022.01.03|
-|Class 4|Basic Machine Learning 실습|2022.01.03|
-|Class 5|Logistic Regression + Neural Network 이론|2022.01.04|
-|Class 6|PyTorch + Neural Network 실습|2022.01.05|
-|Class 7|AutoEncoder 이론|2022.01.05|
-|Class 8|AutoEncoder 실습|2022.01.05|
+|Class 01|Introduction|2022.01.02|
+|Class 02|Numpy 실습|2022.01.02|
+|Class 03|Basic Machine Learning 이론|2022.01.03|
+|Class 04|Basic Machine Learning 실습|2022.01.03|
+|Class 05|Logistic Regression + Neural Network 이론|2022.01.04|
+|Class 06|PyTorch + Neural Network 실습|2022.01.05|
+|Class 07|AutoEncoder 이론|2022.01.05|
+|Class 08|AutoEncoder 실습|2022.01.05|
+|Class 09|Variational Encoder 이론|2022.01.13|
+|Class 10|Variational Encoder |2022.01.13|
