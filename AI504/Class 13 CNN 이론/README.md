@@ -60,10 +60,34 @@
     - Network 자체의 power를 낮춰버리는 역할
 - Normalization
     - N(0,1)을 따르게 만듬
-    - 자세한 내용은 Class 14에서 다루기로 함
 - Distribution Shift
     - 학습한 데이터의 분포와 Test 할 데이터의 분포가 다른 현상
     - ML에서 자주 등장하는 문제
+- Internal Distribution Shift
+    - Layer의 Output은 다음 Layer의 Input이 됨
+    - 만약 Output의 분포가 서로 다르다면, 학습하기 어려움
+    - 내부적 Distribution Shift 발생
+- Batch Normalization
+    - Batch 단위로 Normalization 적용
+    - Scale하고, gamma, beta를 이용해 원본 데이터의 특성을 좀 내줌
+    - 따라서, test 예측할 때도 어려움이 있음
+    - NxCxHxW 형태를 1xCx1x1 형태로 바꿔버림
+- Layer Normalization
+    - 모든 데이터에 대해서 Normalization 적용
+    - train, test 동일하게 사용하고
+    - RNN 에서도 사용 가능
+    - N x 1 x 1 x 로 바뀜
+- Instance Normalization
+    - 공간 정보를 압축함
+    - N x C x H x W -> N x C x 1 x 1 로 바꿈
+    - Style Transfer 등에서 사용
+
+### CNN Architectures
+- ResNet
+    - Skip Connection이라고도 부름
+    - 현재의 정보를 다음 layer output에 보태는 형식
+    - 다음 layer에서 얻어갈 정보가 없더라도, 정보 전달을 위해 없앨 수 없었음
+    - ResNet을 통해, 의미가 없으면 W는 I로, b 는 0 으로 만들어버릴 수 있음
 
 ### Project
 - CelebA 데이터를 이용해 1,000장의 test image의 FID 를 20 이하로 만들어라.
