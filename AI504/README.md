@@ -26,3 +26,5 @@
 |Class 12|Generative Adversarial Networks 실습|2022.01.14|
 |추가 정리|Variational Encoder|2022.01.15|
 |추가 정리|Logistic Regression|2022.01.16|
+|Class 13|CNN 이론|2022.01.19|
+
