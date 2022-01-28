@@ -6,7 +6,7 @@
 - 다양한 방법론 수업
 - 강의자료 : https://mp2893.com/course.html
 
-# Class 11 Gnerative Adversarial Networks 이론
+# Class 13 Convolutional Neural Network 이론
 - More Study Info at : https://jayhong1999.notion.site/AI504-Study-3254606f482e4b7c893a82189275c941
 
 ## CNN
